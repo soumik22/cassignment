@@ -33,16 +33,16 @@ section>h2 {
 }
 
 section.lebesgue>h2 {
-    background-color: #76b8db;
+    background-color: #d59898;
 }
 
 section.fubini>h2 {
-    background-color: #4f7acd;
+    background-color: #c14543;
 }
 
 section.luzin>h2 {
     color: #e2e2e2;
-    background-color: #10328a;
+    background-color: #e5d198;
 }
 
 section>p {
